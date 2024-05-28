@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello World!!");
         Calculator.add(2,3);
         InterestCalculator.interest();
+        SIPCalculator.SIP();
     }
 }
