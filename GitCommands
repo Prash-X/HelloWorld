@@ -1,0 +1,4 @@
+create a branch -> git branch branchNAme
+move to branch -> git checkout branchName
+
+crete and move to branch -> git checkout -b branchName
