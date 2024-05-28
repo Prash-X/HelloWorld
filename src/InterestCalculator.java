@@ -1,5 +1,5 @@
 public class InterestCalculator {
-    void interest(){
+    static void interest(){
         System.out.println("Interest calculator!!!");
     }
 }
